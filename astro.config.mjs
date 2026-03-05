@@ -17,7 +17,7 @@ import alpinejs from "@astrojs/alpinejs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: siteConfig.site,
+  site: 'https://hevvyX.github.io',
   devToolbar: {
     enabled: false
   },
